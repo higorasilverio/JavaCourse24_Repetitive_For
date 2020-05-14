@@ -1,0 +1,1 @@
+Square and the cube of a number.
